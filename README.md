@@ -14,3 +14,6 @@ sudo apt-get update && sudo apt-get install vagrant
 ``vagrant up``
 
 - run `vagrant ssh-config` to get ssh config info. Copy the output and paste info a config file. Set vscode to connect remotely using this ssh config file
+
+- to halt virtual machine
+``vagrant halt``
